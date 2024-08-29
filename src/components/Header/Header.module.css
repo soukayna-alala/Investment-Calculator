@@ -1,0 +1,9 @@
+.coins {
+  width: 280px;
+  object-fit: contain;
+}
+
+header {
+  text-align: center;
+  margin: 2rem auto;
+}
